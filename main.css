@@ -1,0 +1,26 @@
+h2 {
+  font-size: 2em;
+  background-color: grey;
+  margin: 5px;
+  padding-left: 10px;
+}
+
+#top {
+  background-color: #D3D3D3;
+  padding: 20px;
+  margin: 5px;
+}
+
+#bottom {
+  background-color: #CEDDE2;
+  padding: 20px;
+  margin: 5px;
+}
+
+ul {
+  background-color: rgba(150, 212, 255, .5);
+}
+
+p {
+  background-color: rgba(20,66,150, .3);
+}
